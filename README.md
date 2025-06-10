@@ -91,12 +91,8 @@ python app.py
 - Thread-safe implementation for smooth operation
 - Error handling and user feedback
 
-## 👨‍💻 Author
-
-Made with ❤️ by Hadi for Code in Place.
 
 ## �� Acknowledgments
 
 - World Health Organization (WHO) for providing the RSS feed
 - Python community for the amazing libraries
-- Code in Place for the inspiration
